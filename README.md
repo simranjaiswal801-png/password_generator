@@ -11,5 +11,5 @@ Technologies Used-->
 >Python,
  >Tkinter
 
-Live Demo-->
-> https://simranjaiswal801-png.github.io/password_generator/
+SCREENSHORT-->
+screenshort(80).png
