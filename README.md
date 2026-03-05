@@ -12,4 +12,5 @@ Technologies Used-->
  >Tkinter
 
 SCREENSHORT-->
-screenshort(80).png
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26808794-ab15-4a51-af9c-48c8e7aeb949" />
+
